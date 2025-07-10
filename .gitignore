@@ -1,0 +1,37 @@
+# Rust
+/target/
+Cargo.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output
+output/
+*.png
+*.gif
+*.mp4
+*.cast
+
+# Hive Mind (not needed for this project)
+.hive-mind/
+
+# TypeScript artifacts (legacy)
+node_modules/
+dist/
+*.tsbuildinfo
+.eslintrc.js
+package.json
+package-lock.json
+tsconfig.json
+jest.config.js
+
+# Temporary files
+*.tmp
+*.temp
