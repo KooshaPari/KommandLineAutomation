@@ -15,6 +15,18 @@ A **Playwright equivalent for beautiful CLI recordings** — create stunning scr
 - 🎨 **Customizable themes** - Multiple built-in themes (Default, Dracula, etc.)
 - 📜 **Simple YAML scripts** - Easy-to-write automation scripts
 
+## 🎬 Live Demos
+
+**See KLA in action!** Check out our [demos gallery](demos/) featuring screenshots generated using **KLA itself** - the ultimate meta demonstration!
+
+| Demo | Description |
+|------|-------------|
+| ![Banner](demos/kla-banner.png) | **Showcase Demo** - Beautiful terminal layouts |
+| ![Help](demos/help-output.png) | **CLI Interface** - Complete command reference |
+| ![Recursion](demos/final-recursion.png) | **Meta Demo** - KLA running KLA running KLA! |
+
+*All demos created using KLA automation scripts - proving the tool works for real-world documentation!*
+
 ## 🚀 Quick Start
 
 ### Installation

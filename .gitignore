@@ -19,6 +19,10 @@ output/
 *.mp4
 *.cast
 
+# But allow demo assets
+!demos/*.png
+!demos/*.gif
+
 # Hive Mind (not needed for this project)
 .hive-mind/
 
